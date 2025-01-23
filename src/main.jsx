@@ -5,6 +5,6 @@ import App from './components/app/app'
 
 createRoot(document.getElementById('root')).render(
   <BrowserRouter>
-    <App />
+    <App></App>
   </BrowserRouter>
 )
